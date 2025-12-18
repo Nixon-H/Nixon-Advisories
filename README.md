@@ -22,8 +22,8 @@ The author is not responsible for any misuse of the information provided herein.
 
 | CVE ID | Severity | Vendor / Product | Vulnerability Type | PoC Link |
 | :--- | :--- | :--- | :--- | :--- |
-| **[CVE-2025-68434](./Patched-CVE/CVE-2025-68434)** | 🔴 High | OpenSourcePOS | CSRF (Admin Account Takeover) | [View PoC](./CVE-2025-68434) |
-| **[CVE-2025-68147](./Patched-CVE/CVE-2025-68147)** | 🟠 Medium | OpenSourcePOS | Stored Cross-Site Scripting (XSS) | [View PoC](./CVE-2025-68147) |
+| **[CVE-2025-68434](./Patched-CVE/CVE-2025-68434)** | 🔴 High | OpenSourcePOS | CSRF (Admin Account Takeover) | [View PoC](https://github.com/Nixon-H/CVE-2025-68434-OSPOS-CSRF/tree/main) |
+| **[CVE-2025-68147](./Patched-CVE/CVE-2025-68147)** | 🟠 Medium | OpenSourcePOS | Stored Cross-Site Scripting (XSS) | [View PoC](https://github.com/Nixon-H/CVE-2025-68147-OSPOS-Stored-XSS/tree/main) |
 
 ---
 
